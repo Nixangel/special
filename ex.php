@@ -38,4 +38,3 @@ do{
 }while(true);
 
 
-$d = 8 + 5;
